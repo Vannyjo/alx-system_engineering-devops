@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
-for i in {1..10}
-do
-   echo "Best School"
+# This script when run will display "Holberton School" 10 times
+for _ in {1..10} ; do
+    echo "Best School"
 done
-
